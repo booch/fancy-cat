@@ -47,7 +47,7 @@ Available as a Nix package [here](https://github.com/freref/fancy-cat-nix).
 ### Requirements
 
 - Zig version `0.14.0`
-- Terminal emulator with the Kitty image protocol (e.g. Kitty, Ghostty, WezTerm, etc.)
+- Terminal emulator with the Kitty image protocol (e.g. Kitty, Ghostty, WezTerm, iTerm, etc.)
 
 ### Build
 
