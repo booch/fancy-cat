@@ -7,6 +7,14 @@ Configuration file location: `~/.config/fancy-cat/config.json`
 Each binding requires:
 
 - `key`: `u8` (single character) - The main key to trigger the action
+  - Supports [Kitty key names](https://sw.kovidgoyal.net/kitty/keyboard-protocol/#functional-key-definitions), such as:
+    - `up`
+    - `down`
+    - `left`
+    - `right`
+    - `page_up`
+    - `page_down`
+    - `tab`
 - `modifiers`: Array of strings - Optional modifier keys. Available modifiers:
   - `shift`
   - `alt`
